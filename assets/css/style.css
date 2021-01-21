@@ -20,7 +20,7 @@ body{
 }
 
 .grid_item{
-    background-color: blueviolet;
+    background-color: rgb(90, 236, 45);
     border: solid coral 2px;
     display: flex;
     justify-content: center;
